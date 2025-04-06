@@ -1,2 +1,2 @@
 # Python-for-Finance-Repo
-Private Repo for Financial Analysis Course
+Public Repo for Financial Analysis Course
